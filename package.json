@@ -1,7 +1,7 @@
 {
   "name": "linter-anylint",
   "description": "Linter for any languages",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "dependencies": {
     "anylint": "0.0.2",
     "atom-linter": "^10.0.0",
